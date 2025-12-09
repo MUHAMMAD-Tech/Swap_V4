@@ -101,8 +101,6 @@ export default function App() {
 							</ul>
 						</div>
 					</div>
-					<div className={styles.footer}>
-					</div>
 				</div>
 			</main>
 		</>
